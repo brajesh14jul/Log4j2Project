@@ -1,0 +1,10 @@
+2022-04-11 21:25:08.685 DEBUG [main] [TestLog4j2x.main(TestLog4j2x.java:12)] - Hello this is a debug message
+2022-04-11 21:25:08.687 INFO [main] [TestLog4j2x.main(TestLog4j2x.java:13)] - Hello this is an info message
+2022-04-11 21:25:08.687 WARN [main] [TestLog4j2x.main(TestLog4j2x.java:14)] - Hello this is a warn message
+2022-04-11 21:25:08.687 ERROR [main] [TestLog4j2x.main(TestLog4j2x.java:15)] - Hello this is an error message
+2022-04-11 21:25:08.687 FATAL [main] [TestLog4j2x.main(TestLog4j2x.java:16)] - Hello this is a debug message
+2022-04-11 21:28:34.961 DEBUG [main] [TestLog4j2x.main(TestLog4j2x.java:12)] - Hello this is a debug message
+2022-04-11 21:28:34.963 INFO [main] [TestLog4j2x.main(TestLog4j2x.java:13)] - Hello this is an info message
+2022-04-11 21:28:34.969 WARN [main] [TestLog4j2x.main(TestLog4j2x.java:14)] - Hello this is a warn message
+2022-04-11 21:28:34.969 ERROR [main] [TestLog4j2x.main(TestLog4j2x.java:15)] - Hello this is an error message
+2022-04-11 21:28:34.969 FATAL [main] [TestLog4j2x.main(TestLog4j2x.java:16)] - Hello this is a debug message
